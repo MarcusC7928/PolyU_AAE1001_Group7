@@ -328,7 +328,7 @@ def main():
         ox.append(i)
         oy.append(i * 2 - 40)
 
-       for i in range(30, 60):
+    for i in range(30, 60):
         ox.append(40.0)
         oy.append(i)
     
